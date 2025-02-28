@@ -250,7 +250,7 @@ export default function WeddingInvitation() {
             <span className="inline-block animate-fade-in-2">Anjali</span>
           </h1>
           <p className="text-rose-600 font-light italic text-base sm:text-lg">
-            Request the pleasure of your company
+            "Join us to celebrate our wedding!" 💍✨{" "}
           </p>
           <div className="mt-4 sm:mt-6 flex flex-col sm:flex-row justify-center gap-2 sm:gap-4 text-rose-700">
             <div className="flex items-center justify-center">
