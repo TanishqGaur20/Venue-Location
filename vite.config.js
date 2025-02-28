@@ -3,4 +3,5 @@ import { defineConfig } from "vite";
 import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [tailwindcss(), react()],
+  base: "/Venue-Location/", // Change to your repo name
 });
